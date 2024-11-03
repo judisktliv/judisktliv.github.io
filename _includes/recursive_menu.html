@@ -1,0 +1,17 @@
+{% for item in include.items %}
+<li class="{% if item.menu %} submenu opener {% endif %}{% if item.url==page.url %} current {% endif %}">
+    {% if item.permalink %}
+    <a href="{{ item.permalink }}">{{ item.title }}</a>
+    {% elsif item.url %}
+    <a href="{{ item.url }}">{{ item.title }}</a>
+    {% else %}
+    <span>{{ item.title }}</span>
+    {% endif %}
+
+    {% if item.menu %}
+    <ul>
+        {% include recursive_menu.html items=item.menu %}
+    </ul>
+    {% endif %}
+</li>
+{% endfor %}

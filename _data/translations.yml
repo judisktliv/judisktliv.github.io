@@ -1,0 +1,140 @@
+# Navigation menu
+menu:
+  default:
+    en:
+      - title: "Start"
+        url: "/"
+      - title: "Judiska folket"
+        permalink: "/judiska-folket"
+        menu:
+          - title: "Att vara jude"
+            permalink: "/judiska-folket/att-vara-jude"
+          - title: "Gemenskaper"
+            permalink: "/judiska-folket/gemenskaper"
+            menu:
+              - title: "Ashkenazer"
+                permalink: "/judiska-folket/gemenskaper/ashkenazer"
+              - title: "Sefarder"
+                permalink: "/judiska-folket/gemenskaper/sefarder"
+              - title: "Mizrahi"
+                permalink: "/judiska-folket/gemenskaper/mizrahi"
+              - title: "Beta Israel (Etiopien)"
+                permalink: "/judiska-folket/gemenskaper/beta-israel"
+              - title: "Bene Israel (Indien)"
+                permalink: "/judiska-folket/gemenskaper/bene-israel"
+              - title: "Övriga"
+                permalink: "/judiska-folket/gemenskaper/ovriga-gemenskaper"
+          - title: "Israel"
+            permalink: "/judiska-folket/israel"
+            menu:
+      - title: Tro
+        url: "/tro"
+        menu:
+          - title: "Gud är en"
+            permalink: "/tro/gud"
+          - title: "Noachidiska lagarna"
+            permalink: "/tro/noachidiska-lagarna"
+          - title: "Torah"
+            permalink: "/tro/torah"
+          - title: "Talmud"
+            permalink: "/tro/talmud"
+          - title: "Mitzvot"
+            permalink: "/tro/mitzvot"
+          - title: "Sabbaten"
+            permalink: "/tro/sabbaten"
+          - title: "Praktiserande jude"
+            permalink: "/tro/praktiserande-jude"
+          - title: "Ritualer"
+            permalink: "/tro/judiska-ritualer"
+          - title: "Heliga platser"
+            permalink: "/tro/heliga-platser"
+            menu:
+              - title: "Tempelberget"
+                permalink: "/tro/heliga-platser/tempelberget"
+              - title: "Västra muren"
+                permalink: "/tro/heliga-platser/vastra-muren"
+              - title: "Hebron"
+                permalink: "/tro/heliga-platser/hebron"
+              - title: "Rachels grav"
+                permalink: "/tro/heliga-platser/rachels-grav"
+              - title: "Tiberias"
+                permalink: "/tro/heliga-platser/tiberias"
+              - title: "Safed"
+                permalink: "/tro/heliga-platser/safed"
+          - title: "Kosher"
+            permalink: "/tro/kosher"
+          - title: "Synagogan"
+            permalink: "/tro/synagogan"
+          - title: "Bön"
+            permalink: "/tro/judisk-bon"
+          - title: "Mezuzah"
+            permalink: "/tro/mezuzah"
+          - title: "Religiösa rörelser"
+            permalink: "/tro/judiska-rorelser"
+          - title: "Kvinnan i judendomen"
+            permalink: "/tro/kvinnan-i-judendomen"
+          - title: "Mysticism"
+            permalink: "/tro/judisk-mysticism"
+          - title: "Tikkun Olam"
+            permalink: "/tro/tikkun-olam"
+      - title: "Historia"
+        url: "/historia"
+        menu:
+          - title: "Biblisk historia"
+            permalink: "/historia/biblisk-historia"
+          - title: "Exilen och diasporans tid"
+            permalink: "/historia/exilen-och-diasporans-tid"
+          - title: "Modern tid"
+            permalink: "/historia/modern-tid"
+          - title: "Judar i Sverige"
+            permalink: "/historia/judar-i-sverige"
+          - title: "Sionismen"
+            permalink: "/historia/sionismen"
+          - title: "Davidsstjärnan"
+            permalink: "/historia/davidsstjarnan"
+          - title: "Bibliska personligheter"
+            permalink: "/historia/bibliska-personligheter"
+          - title: "Judiska tänkare"
+            permalink: "/historia/judiska-tankare"
+          - title: "Judiska pionjärer"
+            permalink: "/historia/judiska-pionjarer"
+          - title: "Förintelsen"
+            permalink: "/historia/forintelsen"
+          - title: "Israel-Palestina-konflikten"
+            permalink: "/historia/israel-palestina-konflikten"
+          - title: "Attacken den 7 oktober"
+            permalink: "/historia/attacken-7-oktober"
+      - title: "Kultur"
+        url: "/kultur"
+        menu:
+          - title: "Högtider"
+            permalink: "/kultur/judiska-hogtider"
+          - title: "Mat"
+            permalink: "/kultur/judisk-mat"
+          - title: "Hebreiska språket"
+            permalink: "/kultur/hebreiska-spraket"
+          - title: "Folksånger"
+            permalink: "/kultur/judiska-folksanger"
+          - title: "Popkultur"
+            permalink: "/kultur/judisk-popkultur"
+          - title: "Tolerans och respekt"
+            permalink: "/kultur/tolerans-och-respekt"
+      - title: "250 år i Sverige (2025)"
+        permalink: "/judiskt-liv-i-sverige"
+        menu:
+          - title: "Judiska svenskar"
+            permalink: "/judiskt-liv-i-sverige/judiska-svenskar"
+    fr:
+      - title: Bienvenue
+        url: /fr/
+      - title: Mises en Page
+        url: /fr/
+        menu:
+          - title: Barre Latérale Gauche
+            url: /fr/barre-laterale-gauche/
+          - title: Sans Barre Latérale
+            url: /fr/sans-barre-laterale/
+          - title: Barre Latérale Droite
+            url: /fr/barre-laterale-droite/
+      - title: Contact
+        url: /fr/contact/

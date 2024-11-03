@@ -1,0 +1,84 @@
+---
+---
+
+@import "main";
+
+body {
+    scroll-behavior: smooth;
+} 
+
+em {
+    font-style: italic;
+}
+
+#header #logo {
+    /* margin: -0.25rem; */
+}
+
+#header #logo img {
+    margin: 0 15px;
+}
+
+#header.alt img {
+    -webkit-filter: grayscale(1) invert(1);
+    filter: grayscale(1) invert(1);
+}
+
+#header a {
+    line-height: 1; /* Set a standard line height */
+}
+
+#header  a span {
+    vertical-align: middle; /* Options: baseline, middle, sub, super, etc. */
+}
+
+#header  a, a span {
+    line-height: 1.2em; /* Or your preferred line height */
+}
+
+#header  a {
+    display: inline-flex;
+    align-items: center; /* Vertically centers all child elements */
+}
+
+#main {
+    background-image: none;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+
+}
+
+#cta {
+    background-attachment: scroll, scroll, scroll, fixed;
+    background-color: _palette(three, bg);
+    background-image: url('../images/banner.jpg');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5em;
+    text-align: center;
+
+    header {
+        margin-bottom: 2em;
+    }
+}
+
+
+#banner {
+    background-attachment: fixed;
+    background-color: #645862;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -160px;
+    color: #fff;
+    cursor: default;
+    padding: 6em 0;
+    text-align: center;
+    min-height: 60vh;
+}
+
+.special h4 {
+    Margin-top: 1em;
+}
+

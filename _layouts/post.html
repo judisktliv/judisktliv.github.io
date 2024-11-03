@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<!-- Main -->
+<article>
+
+    {% if page.landing %}
+
+    {% include page_banner.html page=page %}
+
+    {% endif %}
+
+    <!-- One -->
+    <section class="wrapper main wrapper style4 container" style="margin-top: 5em;">
+
+        {% if page.landing == nil %}
+
+        <header class="special container">
+            <h2>{{page.title}}</h2>
+            <h4>{{page.subtitle}}</h4>
+            {% include meta.html post=page %}
+        </header>
+
+        {% endif %}
+
+        <!-- Content -->
+        <div class="content">
+
+            {{ content }}
+        </div>
+
+    </section>
+
+</article>

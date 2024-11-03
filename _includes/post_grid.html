@@ -1,0 +1,51 @@
+{%- assign posts = include.posts -%}
+{% assign items_per_row = 2 %} <!-- Set the number of items per row here -->
+{% assign counter = 0 %}
+{% assign limit = include.limit | 6 %} <!-- Set the maximum number of posts to display -->
+{% assign post_count = 0 %}
+
+{% for post in posts %}
+{% if post_count >= limit %}
+{% break %}
+{% endif %}
+
+{% if counter == 0 %}
+<div class="row"> <!-- Start a new row -->
+    {% endif %}
+
+    <div class="col-6 col-12-narrower"> <!-- Column for each post, adjusting width as needed -->
+        <section>
+            <a href="{{ post.url | relative_url }}" class="image featured">
+                <img src="{{ post.image }}" alt="" />
+            </a>
+            <header>
+                <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                {{ post.date | date: "%Y-%m-%d" }}
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%Y-%m-%d" }}
+                </time>
+            </header>
+            <p>{{ post.excerpt }}</p>
+            <strong style="margin-left: 10px;">
+                {% assign author = site.authors | where: 'short_name', post.author | first %}
+                {% if author %}
+                <a href="{{ author.url }}">{{ author.name }}</a>
+                {% else %}
+                {{ post.author }}
+                {% endif %}
+            </strong>
+        </section>
+    </div>
+
+    {% assign counter = counter | plus: 1 %}
+    {% assign post_count = post_count | plus: 1 %}
+
+    {% if counter == items_per_row %}
+</div> <!-- Close the row after the specified number of items -->
+{% assign counter = 0 %}
+{% endif %}
+{% endfor %}
+
+{% if counter != 0 %}
+</div> <!-- Close any remaining open row if the last row is incomplete -->
+{% endif %}
