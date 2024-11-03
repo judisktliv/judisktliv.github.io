@@ -4,12 +4,16 @@
     <div class="categories">{{ category.name | join: ", " | upcase }}</div>
 </a>
 {% endif %}
-<time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%Y-%m-%d" }}</time>
-<span style="margin-left: 10px;">
-    {% assign author = site.authors | where: 'short_name', include.post.author | first %}
-    {% if author %}
-    <a href="{{ author.url }}">{{ author.name }}</a>
-    {% else %}
-    {{include.post.author}}
-    {% endif %}
-</span>
+
+<div style="margin-top: 15px">
+    <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%Y-%m-%d" }}</time>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <span>
+        {% assign author = site.authors | where: 'short_name', include.post.author | first %}
+        {% if author %}
+        <a href="{{ author.url }}">{{ author.name }}</a>
+        {% else %}
+        {{include.post.author}}
+        {% endif %}
+    </span>
+</div>
