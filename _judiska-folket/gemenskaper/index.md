@@ -3,7 +3,7 @@
 layout: page  
 title: Judiska gemenskaper  
 subtitle: En Mångfald av Traditioner, Historia och Identitet  
-permalink: /judiska-folket/gemenskaper  
+permalink: /judiska-folket/gemenskaper/
 
 ---
 

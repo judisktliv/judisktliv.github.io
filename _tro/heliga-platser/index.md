@@ -3,7 +3,7 @@
 layout: page  
 title: Heliga platser  
 subtitle: En Resa Genom Judisk Historia och Andlighet  
-permalink: /tro/heliga-platser  
+permalink: /tro/heliga-platser/
 image: /assets/images/wailing-wall.jpg  
 landing: true  
 

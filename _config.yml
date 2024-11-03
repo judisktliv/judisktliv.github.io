@@ -123,6 +123,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
 
+relative_links:
+  enabled: true
+  collections: true
+
 # Publication settings
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
