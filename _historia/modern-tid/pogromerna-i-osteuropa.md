@@ -2,7 +2,7 @@
 layout: page
 title:  Pogromerna i Östeuropa
 subtitle: En Historisk Skildring av Våld och Förföljelse
-permalink: /historia/modern-tid/progromerna-i-osteuropa
+permalink: /historia/modern-tid/pogromerna-i-osteuropa
 toc: true
 
 ---
