@@ -3,7 +3,7 @@
 layout: page  
 title: Tempelberget  
 subtitle: En Helig Plats för Judendom, Kristendom och Islam  
-permalink: /tro/heliga-platser/tempelberget  
+permalink: /tro/heliga-platser/tempelberget
 image: /assets/images/wailing-wall.jpg  
 landing: true  
 
@@ -37,11 +37,23 @@ Tempelberget är scenen för flera betydelsefulla händelser i Bibeln. Enligt ju
 
 Tempelberget har även stor betydelse för kristna och muslimer. För kristna är platsen viktig på grund av Jesu undervisningar och handlingar i Jerusalem. För muslimer är Tempelberget heligt eftersom de tror att profeten Muhammed steg upp till himlen härifrån under sin himmelsfärd. På 600-talet e.v.t. uppfördes Klippdomen (*Dome of the Rock*) på Tempelberget, vilket blev en symbol för islams närvaro. Al-Aqsa-moskén, en annan av islams heligaste moskéer, byggdes också på Tempelberget och är en plats för bön och pilgrimsfärder.
 
-### Tempelberget Idag: Västra Muren och Begränsad Tillgång för Judar
+För att göra texten ännu tydligare kan vi dela upp informationen om Tempelberget idag i två separata sektioner: en som beskriver den aktuella situationen för Västra Muren och böneutövandet där, och en annan som specifikt förklarar den religiösa administrationen och arrangemanget med den Jordanska waqfen. Här är ett förslag på en tydligare indelning:
 
-Idag administreras Tempelberget av muslimska myndigheter, och judar och kristna får inte be öppet där. Västra Muren, en del av den gamla stödmuren kring Tempelberget, är den närmaste platsen där judar kan samlas för bön. Västra Muren är idag en symbol för sorg och längtan efter templets återuppbyggnad och fungerar som en samlingsplats för böner och andakt.
+### Tempelberget Idag: Västra Muren som Böneplats för Judar
 
-För det judiska folket är Tempelberget en central del av deras historia och tro. För många judar symboliserar Tempelberget deras förbund med Gud, och de hoppas på en framtid då Tempelberget återigen kan bli en plats för judisk bön och gemenskap.
+Efter templets förstörelse har Västra Muren, en kvarvarande del av stödmuren kring Tempelberget, blivit den främsta böneplatsen för judar. Eftersom Tempelberget idag har begränsad tillgång för judar och kristna, fungerar Västra Muren som den närmaste platsen där judar kan samlas för bön. Västra Muren har därför blivit en viktig symbol för sorg och längtan efter templets återuppbyggnad och en plats för andakt och samling vid högtider. Här uttrycks en stark känsla av historisk koppling och andlig tillhörighet för det judiska folket.
+
+[Läs mer om Västra muren](/tro/heliga-platser/vastra-muren)
+
+### Tempelberget Idag: Religiös Administration under Jordanska Waqfen
+
+När Israel återtog kontrollen över Jerusalem 1967 beslutade de att överlåta den religiösa administrationen av Tempelberget till den Jordanska waqfen (islamsk stiftelse) för att bibehålla en balans mellan religionerna i området. Denna överenskommelse innebär att waqfen ansvarar för den religiösa verksamheten på Tempelberget, medan Israel har hand om säkerheten. Genom detta arrangemang har waqfen bestämmanderätt över de religiösa reglerna och tillgången till islamiska helgedomar som Klippdomen och Al-Aqsa-moskén. Judar och kristna får endast begränsad tillgång till Tempelberget för bön, vilket gör Västra Muren till en alternativ plats för bön och samling för dessa grupper.
+
+### Drömmen om Tredje Templet
+
+För många judar är Tempelberget inte bara en historisk och religiös plats, utan även en symbol för hoppet om ett återupprättat tempel. Enligt judisk tradition kommer ett tredje tempel, kallat Tredje Templet, att byggas på Tempelberget i en framtida tid av fred och andlig återfödelse. Detta tempel skulle vara en plats för återupptagna offer och böner enligt de gamla judiska ritualerna, men förknippas också med visioner om en enad värld i fred och harmoni. Enligt profetiska texter inom judendomen skulle Tredje Templet inte bara vara för det judiska folket utan för alla världens folk och nationer, en plats där människor från olika kulturer och religioner kan komma samman i andakt och fred.
+
+Drömmen om Tredje Templet är en central del av den judiska eskatologin och representerar en återkomst till ett gudomligt förbund och en återförening med Gud på den mest heliga platsen i Jerusalem. Samtidigt är idén om att bygga ett tredje tempel kontroversiell på grund av Tempelbergets känsliga religiösa och politiska status. Diskussionen kring Tredje Templet är därför komplex och involverar både djupt rotade andliga önskningar och praktiska hinder i dagens värld. Men för många judar förblir visionen om Tredje Templet ett hopp om en framtid där Tempelberget åter kan bli en plats för judisk bön och en symbol för enighet, fred och samling för alla människor.
 
 ### Sammanfattning
 
