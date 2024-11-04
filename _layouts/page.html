@@ -26,7 +26,27 @@ layout: default
         <!-- Content -->
         <div class="content">
 
+            {% if page.toc %}
+
+            {% assign first_paragraph = content | split: '</p>' | first %}
+            {% assign remaining_content = content | split: '</p>' | slice: 1, 100 | join: '</p>' %}
+
+            {{ first_paragraph | append: '</p>' }} <!-- Första paragrafen -->
+
+            <h3>Innehåll</h3>
+
+            <div id="toc">
+                {{ content | toc_only }} <!-- TOC placeras här -->
+            </div>
+
+            {{ remaining_content }}
+
+            {% else %}
+
             {{ content }}
+
+            {% endif %}
+
         </div>
 
     </section>

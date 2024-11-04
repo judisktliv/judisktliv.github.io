@@ -4,6 +4,7 @@ layout: page
 title: Tolerans och Respekt i Judisk Tradition  
 subtitle: En Inbjudan till Förståelse och Samhörighet  
 permalink: /kultur/tolerans-och-respekt  
+toc: true
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Antisemitismen
+title:  Antisemitism
 subtitle: En inblick i antisemitismens historia, uttryck och konsekvenser för det judiska folket
-permalink: /historia/antisemitismen
+permalink: /historia/antisemitism/
 ---
 
 Antisemitismen är en av de äldsta formerna av hat och fördomar i världen, riktad mot judar som folkgrupp och religion. Denna fientlighet har påverkat judiska samhällen och individer på djupgående sätt och har dykt upp i olika former genom historien. Antisemitismens förödande inverkan märks inte bara i stora historiska händelser som förintelsen, utan även i hur den påverkar judiska människors vardag i små och stora frågor, både förr och nu.

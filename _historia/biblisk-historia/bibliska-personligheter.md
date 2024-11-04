@@ -2,7 +2,7 @@
 layout: page
 title:  Bibliska Personligheter
 subtitle: Ikoner och Inspiratörer i Judisk Tro
-permalink: /historia/bibliska-personligheter
+permalink: /historia/biblisk-historia/bibliska-personligheter
 ---
 
 Judisk tro och tradition är starkt rotade i Tanakh, den hebreiska Bibeln, som skildrar livet och gärningarna av både vanliga människor och unika ledare som har kommit att bli symboliska gestalter. Dessa bibliska personligheter ger vägledning och inspiration, erbjuder moralisk undervisning och illustrerar det judiska folkets historia och tro. Här utforskar vi några av de mest framstående bibliska figurerna och deras betydelse inom judendomen.

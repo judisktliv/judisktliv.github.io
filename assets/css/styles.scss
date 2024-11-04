@@ -76,9 +76,14 @@ em {
     padding: 6em 0;
     text-align: center;
     min-height: 60vh;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 
 .special h4 {
     Margin-top: 1em;
+}
+
+h2, h3, h4 { /* Anpassa beroende på vilka rubriker du använder */
+    scroll-margin-top: 80px; /* Ändra till höjden på din navbar */
 }
 

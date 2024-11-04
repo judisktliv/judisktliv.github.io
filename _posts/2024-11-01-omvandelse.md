@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Varför Judendomen Inte Aktivt Omvänder Folk"
-author: "marina-sundstrom"
 category: "tro"
 date:   2024-11-01 14:36:23
 image: /assets/images/pic03.jpg

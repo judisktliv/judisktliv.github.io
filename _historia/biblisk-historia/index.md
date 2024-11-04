@@ -2,7 +2,7 @@
 layout: page
 title:  Biblisk historia
 subtitle: Ett folks uppkomst
-permalink: /historia/biblisk-historia
+permalink: /historia/biblisk-historia/
 ---
 
 Den judiska bibliska historien är en berättelse om tro, löften och en ihärdig kamp för att hålla fast vid sin identitet genom både svårigheter och triumfer. Dessa berättelser bär på djup betydelse för det judiska folket, som genom varje händelse får en påminnelse om sin relation till Gud och sina nära band till varandra. Här är några av de mest betydelsefulla händelserna som format det judiska folkets tro och värderingar.
