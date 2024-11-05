@@ -2,7 +2,7 @@
 layout: page
 title:  Emancipationen
 subtitle: Judarnas Vägen till Medborgerliga Rättigheter i Europa
-permalink: /historia/modern-tid/emancipationen
+permalink: /historia/exilen-och-diasporans-tid/emancipationen
 toc: true
 
 ---

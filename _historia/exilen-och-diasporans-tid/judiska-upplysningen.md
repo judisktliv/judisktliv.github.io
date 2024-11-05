@@ -3,7 +3,7 @@
 layout: page
 title:  Judiska upplysningen (Haskala)
 subtitle: En Rörelse för Förnyelse och Integration
-permalink: /historia/modern-tid/judiska-upplysningen
+permalink: /historia/exilen-och-diasporans-tid/judiska-upplysningen
 toc: true
 
 ---

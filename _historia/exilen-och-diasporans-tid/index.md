@@ -3,7 +3,7 @@
 layout: page  
 title: Exilen och diasporans tid
 subtitle: Från Tempelförstörelse till Modern Tid  
-permalink: /historia/exilen-och-diasporans-tid 
+permalink: /historia/exilen-och-diasporans-tid/
 
 ---
 

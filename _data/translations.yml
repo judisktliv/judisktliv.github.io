@@ -87,13 +87,14 @@ menu:
                 permalink: "/historia/biblisk-historia/bibliska-personligheter"
           - title: "Exilen och diasporans tid"
             permalink: "/historia/exilen-och-diasporans-tid"
+            menu:
+              - title: "Emancipationen"
+                permalink: "/historia/exilen-och-diasporans-tid/emancipationen"
+              - title: "Judiska upplysningen"
+                permalink: "/historia/exilen-och-diasporans-tid/judiska-upplysningen"
           - title: "Modern tid"
             permalink: "/historia/modern-tid"
             menu:
-              - title: "Emancipationen"
-                permalink: "/historia/modern-tid/emancipationen"
-              - title: "Judiska upplysningen"
-                permalink: "/historia/modern-tid/judiska-upplysningen"
               - title: "Förintelsen"
                 permalink: "/historia/modern-tid/forintelsen"
               - title: "Pogromerna i Östeuropa"
