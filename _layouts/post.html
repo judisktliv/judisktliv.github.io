@@ -27,26 +27,27 @@ layout: default
         <!-- Content -->
         <div class="content">
 
-            {% if page.toc %}
 
-            {% assign first_paragraph = content | split: '</p>' | first %}
-            {% assign remaining_content = content | split: '</p>' | slice: 1, 100 | join: '</p>' %}
+        {% if page.toc %}
+            {% assign split_content = content | split: "<h" %}
+            {% assign before_heading = split_content[0] %}
+            {% assign after_heading = "<h" | append: split_content[1] %}
 
-            {{ first_paragraph | append: '</p>' }} <!-- Första paragrafen -->
-
+            {{ before_heading }} 
+            
             <h3>Innehåll</h3>
 
             <div id="toc">
                 {{ content | toc_only }} <!-- TOC placeras här -->
             </div>
 
-            {{ remaining_content }}
+            {{ after_heading }}
 
             {% else %}
 
             {{ content }}
 
-            {% endif %}
+        {% endif %}
 
         </div>
 

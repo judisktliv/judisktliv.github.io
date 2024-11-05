@@ -26,24 +26,24 @@ layout: default
         <!-- Content -->
         <div class="content">
 
-            {% if page.toc %}
+                {% if page.toc %}
+                {% assign split_content = content | split: "<h" %}
+                {% assign before_heading = split_content[0] %}
+                {% assign after_heading = "<h" | append: split_content[1] %}
 
-            {% assign first_paragraph = content | split: '</p>' | first %}
-            {% assign remaining_content = content | split: '</p>' | slice: 1, 100 | join: '</p>' %}
+                {{ before_heading }} 
+                
+                <h3>Innehåll</h3>
 
-            {{ first_paragraph | append: '</p>' }} <!-- Första paragrafen -->
+                <div id="toc">
+                    {{ content | toc_only }} <!-- TOC placeras här -->
+                </div>
 
-            <h3>Innehåll</h3>
+                {{ after_heading }}
 
-            <div id="toc">
-                {{ content | toc_only }} <!-- TOC placeras här -->
-            </div>
+                {% else %}
 
-            {{ remaining_content }}
-
-            {% else %}
-
-            {{ content }}
+                {{ content }}
 
             {% endif %}
 

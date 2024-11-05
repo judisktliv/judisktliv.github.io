@@ -3,7 +3,8 @@
 layout: page  
 title: Kvinnan i Judendomen  
 subtitle: Historia, Roll och Nutida Perspektiv  
-permalink: /tro/kvinnan-i-judendomen  
+permalink: /tro/kvinnan-i-judendomen
+toc: true
 
 ---
 
