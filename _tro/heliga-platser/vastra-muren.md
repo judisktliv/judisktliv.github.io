@@ -4,7 +4,7 @@ layout: page
 title: Västra muren  
 subtitle: En Symbol för Andakt och Historisk Kamp  
 permalink: /tro/heliga-platser/vastra-muren  
-image: /assets/images/wailing-wall.jpg  
+image: /assets/images/western-wall.jpg  
 landing: true  
 
 ---

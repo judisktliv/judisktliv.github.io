@@ -10,7 +10,6 @@ Judiska samhällen har under århundradena spridits över hela världen och etab
 
 Här är några av de viktigaste språken från den judiska diasporan, med exempel på hur de har utvecklats och berikats genom historien.
 
----
 
 ### Hebreiska alfabetets roll och anpassning
 

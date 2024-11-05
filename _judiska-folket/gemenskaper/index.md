@@ -9,7 +9,7 @@ permalink: /judiska-folket/gemenskaper/
 
 Judiska gemenskaper världen över har en mångsidig historia som sträcker sig över tusentals år. Genom diasporan – spridningen av judar till olika regioner och kulturer – har en rik mångfald av språk, traditioner och seder utvecklats.
 
-Diasporans berättelse är en av migration och anpassning, där varje grupp format sitt unika uttryck. Från de [ashkenaziska judarna](ashkenazer) i Östeuropa och [sefardiska judarna](sefarderna) från Spanien och Nordafrika, till [Beta Israel](beta-israel) från Etiopien och [Bene Israel](bene-israel) från Indien – alla bidrar med sitt kulturella arv till den judiska mångfalden. 
+Diasporans berättelse är en av migration och anpassning, där varje grupp format sitt unika uttryck. Från de [ashkenaziska judarna](ashkenazer) i Östeuropa och [sefardiska judarna](sefarder) från Spanien och Nordafrika, till [Beta Israel](beta-israel) från Etiopien och [Bene Israel](bene-israel) från Indien – alla bidrar med sitt kulturella arv till den judiska mångfalden. 
 
 Trots geografiska avstånd har judarna bevarat en gemensam identitet byggd på tro, historia och gemenskap, samtidigt som de anpassat sina språk, musik och matkultur till de samhällen där de bott. 
 

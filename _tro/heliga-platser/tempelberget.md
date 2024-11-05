@@ -4,7 +4,7 @@ layout: page
 title: Tempelberget  
 subtitle: En Helig Plats för Judendom, Kristendom och Islam  
 permalink: /tro/heliga-platser/tempelberget  
-image: /assets/images/wailing-wall.jpg  
+image: /assets/images/temple-mount.jpg
 landing: true  
 
 ---

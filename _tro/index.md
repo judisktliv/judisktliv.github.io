@@ -4,7 +4,7 @@ layout: page
 title: Judisk tro  
 subtitle: Ett förbund med Gud och ett folk  
 permalink: /tro  
-image: /assets/images/israel-religion-jewish-pesach-blessing.webp  
+image: /assets/images/PikiWiki_Israel_16920_Torah_Reading.jpg 
 landing: true  
 
 ---

@@ -4,7 +4,7 @@ layout: page
 title: Hebron  
 subtitle: En Stad Rotad i Historia och Helighet  
 permalink: /tro/heliga-platser/hebron  
-image: /assets/images/wailing-wall.jpg  
+image: /assets/images/dan-rosenstein-eyuTaorbYVU-unsplash.jpg  
 landing: true  
 
 ---
