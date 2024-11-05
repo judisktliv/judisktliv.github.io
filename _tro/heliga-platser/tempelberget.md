@@ -37,8 +37,6 @@ Tempelberget är scenen för flera betydelsefulla händelser i Bibeln. Enligt ju
 
 Tempelberget har även stor betydelse för kristna och muslimer. För kristna är platsen viktig på grund av Jesu undervisningar och handlingar i Jerusalem. För muslimer är Tempelberget heligt eftersom de tror att profeten Muhammed steg upp till himlen härifrån under sin himmelsfärd. På 600-talet e.v.t. uppfördes Klippdomen (*Dome of the Rock*) på Tempelberget, vilket blev en symbol för islams närvaro. Al-Aqsa-moskén, en annan av islams heligaste moskéer, byggdes också på Tempelberget och är en plats för bön och pilgrimsfärder.
 
-För att göra texten ännu tydligare kan vi dela upp informationen om Tempelberget idag i två separata sektioner: en som beskriver den aktuella situationen för Västra Muren och böneutövandet där, och en annan som specifikt förklarar den religiösa administrationen och arrangemanget med den Jordanska waqfen. Här är ett förslag på en tydligare indelning:
-
 ### Tempelberget Idag: Västra Muren som Böneplats för Judar
 
 Efter templets förstörelse har Västra Muren, en kvarvarande del av stödmuren kring Tempelberget, blivit den främsta böneplatsen för judar. Eftersom Tempelberget idag har begränsad tillgång för judar och kristna, fungerar Västra Muren som den närmaste platsen där judar kan samlas för bön. Västra Muren har därför blivit en viktig symbol för sorg och längtan efter templets återuppbyggnad och en plats för andakt och samling vid högtider. Här uttrycks en stark känsla av historisk koppling och andlig tillhörighet för det judiska folket.
