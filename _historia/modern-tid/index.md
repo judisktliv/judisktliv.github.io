@@ -9,9 +9,11 @@ toc: true
 
 Den moderna judiska historien är en berättelse om motståndskraft, förändring och en stark vilja att överleva och blomstra, trots stora utmaningar. Under de senaste tvåhundra åren har judar världen över genomgått dramatiska förändringar, från emancipation och förföljelse till förnyelse och etablering av en judisk stat.
 
-### Emancipation och Assimilation i Europa
+### Emancipation, Haskala och Uppdelning i Rörelser
 
-Under 1800-talet började många europeiska länder att ge judar fler rättigheter och större frihet att delta i samhället. Denna emancipationsprocess innebar att judar kunde börja leva utanför gettona, delta i utbildningsväsendet och bidra till kulturen och ekonomin på nya sätt. Många judar blev framstående inom vetenskap, litteratur, och konst och bidrog till moderniseringen av sina samhällen. Samtidigt ledde denna assimilering ibland till en förlust av traditioner och språket jiddisch, då vissa judar försökte anpassa sig för att accepteras i det bredare samhället.
+Under 1800-talet började många europeiska länder att ge judar fler rättigheter och större frihet att delta i samhället. Denna emancipationsprocess, tillsammans med den judiska upplysningen, *Haskala*, ledde till stora förändringar inom det judiska samhället. Inspirerad av den europeiska upplysningen förespråkade *Haskala* en reformering av judiskt liv för att underlätta integration i det omgivande samhället. Förespråkarna för *Haskala*, *maskilim*, ville kombinera modern utbildning med judisk tradition, vilket innebar att judar uppmuntrades att lära sig majoritetsspråken, delta i sekulära yrken och anpassa vissa religiösa seder.
+
+Men dessa reformer ledde också till nya religiösa och kulturella spänningar. Många judiska ledare och samhällen såg moderniseringen som ett hot mot judisk tro och tradition. Som en reaktion uppstod begreppet *ortodox* judendom för att beskriva de grupper som försvarade traditionella seder och lagar. Begreppet, som lånades från kristendomen, markerade en tydligare gräns mellan de som ville bevara judendomen oförändrad och de som ville anpassa den till samtiden. Med tiden utvecklades även andra riktningar, som reformjudendom och konservativ judendom, vilket ledde till en mångfald av judiska rörelser som fortfarande präglar judiskt liv idag.
 
 ### Antisemitism och Förföljelse
 

@@ -1,4 +1,5 @@
 ---
+
 layout: page
 title:  Judiska upplysningen (Haskala)
 subtitle: En Rörelse för Förnyelse och Integration

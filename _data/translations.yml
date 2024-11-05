@@ -90,6 +90,8 @@ menu:
           - title: "Modern tid"
             permalink: "/historia/modern-tid"
             menu:
+              - title: "Emancipationen"
+                permalink: "/historia/modern-tid/emancipationen"
               - title: "Judiska upplysningen"
                 permalink: "/historia/modern-tid/judiska-upplysningen"
               - title: "Förintelsen"
@@ -108,6 +110,8 @@ menu:
             permalink: "/historia/judar-i-sverige"
           - title: "Sionismen"
             permalink: "/historia/sionismen"
+          - title: "Aliya"
+            permalink: "/historia/aliya"
           - title: "Davidsstjärnan"
             permalink: "/historia/davidsstjarnan"
           - title: "Judiska tänkare"
