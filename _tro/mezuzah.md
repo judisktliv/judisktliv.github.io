@@ -11,7 +11,7 @@ En *mezuzah* är ett heligt föremål inom judendomen, placerat på dörrpostern
 
 ### Vad är en Mezuzah?
 
-Ordet "mezuzah" betyder "dörrpost" på hebreiska, men i praktiken syftar det på en kapsel som innehåller en pergamentrulle, *klaf*. På pergamentet finns en specifik text från *Torah* (de första fem böckerna i Bibeln) skriven för hand av en *sofer*, en särskilt utbildad skrivare. Texten på pergamentet är hämtad från det viktiga avsnittet i judendomen, *Shema Yisrael*:
+Ordet "mezuzah" betyder "dörrpost" på hebreiska, men i praktiken syftar det på en kapsel som innehåller en pergamentrulle, *klaf* (קלף). På pergamentet finns en specifik text från *Torah* (de första fem böckerna i Bibeln) skriven för hand av en *sofer* (סופר), en särskilt utbildad skrivare. Texten på pergamentet är hämtad från det viktiga avsnittet i judendomen, *Shema Yisrael*:
 
 > "Hör, Israel! Herren är vår Gud, Herren är en."
 
@@ -23,11 +23,11 @@ Att sätta upp en mezuzah är att följa ett bud från Torah och symboliserar lo
 
 ### Hur ser en mezuzah ut?
 
-Själva mezuzahkapseln kan vara gjord av trä, metall, glas eller andra material och kan ha olika utsmyckningar, men det heliga föremålet är pergamentrullen inuti. På pergamentets utsida står ordet *Shaddai* skrivet, ett av Guds namn, vilket också kan tolkas som ”Israels Väktare”. Det symboliserar Guds beskydd över hemmet och de som bor där.
+Själva mezuzahkapseln kan vara gjord av trä, metall, glas eller andra material och kan ha olika utsmyckningar, men det heliga föremålet är pergamentrullen inuti. På pergamentets utsida står ordet *Shaddai* (שדי) skrivet, ett av Guds namn, vilket också kan tolkas som ”Israels Väktare”. Det symboliserar Guds beskydd över hemmet och de som bor där.
 
 ### Var placeras en mezuzah?
 
-En mezuzah placeras på höger dörrpost när man går in i ett rum och är vinklad lätt inåt, som en symbol för att bjuda in Guds närvaro i hemmet. De flesta rum i ett judiskt hem har en mezuzah förutom badrum och andra utrymmen som anses mindre passande. När en mezuzah sätts upp reciterar man ofta en välsignelse för att markera den andliga betydelsen.
+En mezuzah placeras på höger dörrpost när man går in i ett rum och är vinklad lätt inåt, som en symbol för att bjuda in Guds närvaro i hemmet. De flesta rum i ett judiskt hem har en mezuzah, förutom badrum och andra utrymmen som anses mindre passande. När en mezuzah sätts upp reciterar man ofta en välsignelse för att markera den andliga betydelsen.
 
 ### Mezuzah som skydd och välsignelse
 

@@ -7,13 +7,13 @@ permalink: /tro/tikkun-olam
 
 ---
 
-*”Tikkun Olam”* är ett koncept inom judendomen som betyder "att laga världen". Det är en moralisk och andlig uppmaning att delta aktivt i att förbättra världen, bygga ett rättvisare samhälle och ta ansvar för att främja fred och rättvisa. Idén om Tikkun Olam är djupt rotad i den judiska traditionen och representerar ett centralt mål för judiska individer och samhällen: att bidra till en bättre värld för alla.
+*”Tikkun Olam”* (תיקון עולם) är ett koncept inom judendomen som betyder "att laga världen". Det är en moralisk och andlig uppmaning att delta aktivt i att förbättra världen, bygga ett rättvisare samhälle och ta ansvar för att främja fred och rättvisa. Idén om Tikkun Olam är djupt rotad i den judiska traditionen och representerar ett centralt mål för judiska individer och samhällen: att bidra till en bättre värld för alla.
 
 ### Ursprung och Historisk Betydelse
 
-Begreppet Tikkun Olam har sitt ursprung i judiska texter och är kopplat till tanken att mänskligheten har en aktiv roll i att främja rättvisa och förbättra skapelsen. Det finns referenser till begreppet i både *Mishnah* och *Talmud*, där det används för att beskriva behovet av rättvisa sociala och juridiska förändringar för att skydda de sårbara i samhället och skapa ordning.
+Begreppet Tikkun Olam har sitt ursprung i judiska texter och är kopplat till tanken att mänskligheten har en aktiv roll i att främja rättvisa och förbättra skapelsen. Det finns referenser till begreppet i både *Mishnah* (משנה, en tidig samling av judiska lagar) och *Talmud* (תלמוד, en samling av diskussioner och tolkningar av judiska lagar), där det används för att beskriva behovet av rättvisa sociala och juridiska förändringar för att skydda de sårbara i samhället och skapa ordning.
 
-Under medeltiden började begreppet också kopplas till *Kabbala*, den judiska mystiken, där Tikkun Olam representerade en djupare andlig idé: att människan, genom sina handlingar, kunde återföra världen till ett mer harmoniskt tillstånd, nära Gud. Inom denna kabbalistiska tradition talar man om att Gud skapade världen med ett perfekt ljus som spreds och splittrades, och att människans ansvar är att återförena dessa ljusfragment genom rättfärdiga handlingar.
+Under medeltiden började begreppet också kopplas till *Kabbala* (קבלה, judisk mystik), där Tikkun Olam representerade en djupare andlig idé: att människan, genom sina handlingar, kunde återföra världen till ett mer harmoniskt tillstånd, nära Gud. Inom denna kabbalistiska tradition talar man om att Gud skapade världen med ett perfekt ljus som spreds och splittrades, och att människans ansvar är att återförena dessa ljusfragment genom rättfärdiga handlingar.
 
 ### Tikkun Olam i Modern Judendom
 
@@ -45,6 +45,6 @@ I ljuset av dagens miljöutmaningar har Tikkun Olam kommit att innefatta även m
 
 ### Avslutande Tankar
 
-Tikkun Olam är en påminnelse om att världen, trots dess skönhet och komplexitet, alltid kan förbättras, och att varje individ kan spela en roll i den förbättringen. Att leva med Tikkun Olam som ett centralt värde innebär att ständigt sträva efter att lämna världen i ett bättre skick än man fann den, och att agera med rättvisa, medkänsla och respekt. 
+Tikkun Olam är en påminnelse om att världen, trots dess skönhet och komplexitet, alltid kan förbättras, och att varje individ kan spela en roll i den förbättringen. Att leva med Tikkun Olam som ett centralt värde innebär att ständigt sträva efter att lämna världen i ett bättre skick än man fann den, och att agera med rättvisa, medkänsla och respekt.
 
 Tikkun Olam är en inspiration till att inte bara leva för sig själv utan också att ta ansvar för andras välbefinnande. Det är ett kall att delta i ett större projekt – att läka, stödja och förbättra världen. För judar är Tikkun Olam en evig strävan som gör att de kan känna sig nära Gud, medmänniskor och skapelsen, i hopp om att deras handlingar ska skapa en värld fylld av fred, harmoni och rättvisa.

@@ -1,21 +1,23 @@
 ---
-layout: page
-title: Talmud
-subtitle: Ett Levande Arv av Visdom och Reflektion
-permalink: /tro/talmud
+
+layout: page  
+title: Talmud  
+subtitle: Ett Levande Arv av Visdom och Reflektion  
+permalink: /tro/talmud  
+
 ---
 
 För judar världen över är Talmud mer än en text – det är en rik källa till visdom, ett verktyg för reflektion och en vägledare för att förstå livets många frågor. Talmud representerar århundraden av samtal och lärande mellan rabbiner och lärda, som tillsammans har skapat ett djupt arv av tolkningar och etiska överväganden. För det judiska folket är Talmud central inom tro och identitet, och dess djup och mångfald skapar en levande koppling till historia, kultur och gemenskap.
 
 ### Vad är Talmud?
 
-Talmud består av två huvuddelar: *Mishnah* och *Gemara*. **Mishnah** är en sammanställning av den muntliga lagen som färdigställdes omkring år 200 e.Kr. av Rabbi Yehuda ha-Nasi och hans samtida. Mishnah är organiserad i sex avdelningar, eller "ordningar," som behandlar allt från högtider och rituella föreskrifter till civilrätt och etik.
+Talmud består av två huvuddelar: *Mishnah* och *Gemara*. **Mishnah** (משנה) är en sammanställning av den muntliga lagen som färdigställdes omkring år 200 e.Kr. av Rabbi Yehuda ha-Nasi (en framstående rabbin och ledare) och hans samtida. Mishnah är organiserad i sex avdelningar, eller "ordningar," som behandlar allt från högtider och rituella föreskrifter till civilrätt och etik.
 
-**Gemara** är ett omfattande verk som bygger vidare på Mishnah med fördjupade diskussioner och tolkningar. Den sammanställdes av rabbiner under de kommande århundradena och innehåller olika perspektiv, berättelser och tolkningar från lärda i både Israel och Babylon. Tillsammans utgör Mishnah och Gemara Talmud, och det finns två huvudsakliga versioner: den **babyloniska Talmud** och den **jerusalemska Talmud**. Den babyloniska Talmud, färdigställd på 500-talet e.Kr., är den mest omfattande och den som oftast används inom judisk undervisning idag.
+**Gemara** (גמרא) är ett omfattande verk som bygger vidare på Mishnah med fördjupade diskussioner och tolkningar. Den sammanställdes av rabbiner under de kommande århundradena och innehåller olika perspektiv, berättelser och tolkningar från lärda i både Israel och Babylon (en region som var hemvist för många judiska samhällen). Tillsammans utgör Mishnah och Gemara Talmud, och det finns två huvudsakliga versioner: den **babyloniska Talmud** och den **jerusalemska Talmud**. Den babyloniska Talmud, färdigställd på 500-talet e.Kr., är den mest omfattande och den som oftast används inom judisk undervisning idag.
 
 ### Talmuds Roll i Judiskt Liv och Studier
 
-Talmud är en grundpelare i judiskt lärande och en källa till både andlig och intellektuell utveckling. Generationer av judar, såväl lärda som lekmän, har studerat Talmud för att bättre förstå sin tro, diskutera etik och rättvisa samt undersöka livets och samhällets utmaningar. Ofta studeras Talmud i par eller små grupper, kallade *havruta*, där samtal och debatt skapar möjlighet att gemensamt utforska textens djup och bredd. Talmud är en text som belönar både kritiskt tänkande och ett öppet sinne.
+Talmud är en grundpelare i judiskt lärande och en källa till både andlig och intellektuell utveckling. Generationer av judar, såväl lärda som lekmän, har studerat Talmud för att bättre förstå sin tro, diskutera etik och rättvisa samt undersöka livets och samhällets utmaningar. Ofta studeras Talmud i par eller små grupper, kallade *havruta* (חברותא), där samtal och debatt skapar möjlighet att gemensamt utforska textens djup och bredd. Talmud är en text som belönar både kritiskt tänkande och ett öppet sinne.
 
 Talmuds struktur bygger på dialog och argumentation, och den judiska traditionen värderar många olika perspektiv. I Talmud tillåts och värderas olika tolkningar och åsikter, och flera röster kan samexistera sida vid sida. Detta flerstämmiga tillvägagångssätt visar en öppenhet för olika synsätt och tankar. Inom judisk tradition är det inte alltid slutgiltiga svar som är viktigast, utan själva resan mot förståelse och de frågor som väcks under studierna.
 
@@ -29,7 +31,7 @@ Talmud utvecklades under en tid då judiska samhällen stod inför stora utmanin
 
 Trots sin centrala roll inom judendomen är Talmud ofta missförstådd utanför den judiska gemenskapen. Många missuppfattningar beror på en bristande förståelse för textens syfte och uppbyggnad.
 
-1. **Ryckta citat och kontext**  
+1. **Tagen ur sitt sammanhang**  
    Talmud är en mycket komplex textsamling som ofta innehåller hypotetiska scenarier och filosofiska resonemang. Ibland kan enskilda citat ryckas ur sitt sammanhang och ges en annan innebörd än vad som var tänkt. Talmudens struktur är byggd för att låta olika röster och synsätt komma fram, och texten fokuserar ofta på möjliga tolkningar snarare än att slå fast en absolut sanning.
 
 2. **Myt om "hemliga läror"**  

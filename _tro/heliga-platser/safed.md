@@ -13,7 +13,7 @@ Safed, eller *Tzfat* som den kallas på hebreiska, är en av judendomens fyra he
 
 ### Historisk Betydelse och Kabbalans Framväxt
 
-På 1500-talet blev Safed ett andligt centrum för kabbalistisk lärdom, särskilt genom inflytandet av framstående mystiker som Rabbi Isaac Luria, känd som *Ari HaKadosh* (Den Helige Luran), och Rabbi Moshe Cordovero. Dessa rabbiner och deras lärjungar utvecklade och fördjupade läror som kom att definiera kabbalan – judendomens mystiska tradition – med texter och symbolik om skapelsens mysterier, själens natur och dess förhållande till Gud. Rabbi Lurias idéer, även kallade lurianisk kabbala, har haft ett varaktigt inflytande och fortsätter att locka andliga sökare till Safed än idag.
+På 1500-talet blev Safed ett andligt centrum för kabbalistisk lärdom, särskilt genom inflytandet av framstående mystiker som **Rabbi Isaac Luria**, känd som *Ari HaKadosh* (Den Helige Luran), och **Rabbi Moshe Cordovero**. Dessa rabbiner och deras lärjungar utvecklade och fördjupade läror som kom att definiera kabbalan – judendomens mystiska tradition – med texter och symbolik om skapelsens mysterier, själens natur och dess förhållande till Gud. Rabbi Lurias idéer, även kallade **lurianisk kabbala**, har haft ett varaktigt inflytande och fortsätter att locka andliga sökare till Safed än idag.
 
 ### En Plats av Mystik och Helighet
 
@@ -39,4 +39,4 @@ Safed erbjuder en stark känsla av gemenskap, särskilt under sabbaten. När sab
 
 ### Sammanfattning
 
-Safed är mer än bara en stad; det är en plats där historia, mystik och kultur sammanflätas till en unik andlig miljö. Genom sina gränder, synagogor och konstverk erbjuder Safed en möjlighet att uppleva det gudomliga i vardagen. För de judar som besöker eller bor i Safed är staden en påminnelse om deras traditioners djup och en plats för att förnya och fördjupa sin tro. Safed är inte bara ett historiskt minnesmärke utan en levande, vibrerande plats för andlig förnyelse och lärande, som fortsätter att inspirera generationer av judar världen över.
+Safed är mer än bara en stad; det är en plats där historia, mystik och kultur sammanflätas till en unik andlig miljö. Genom sina gränder, synagogor och konstverk erbjuder Safed en möjlighet att uppleva det gudomliga i vardagen. För de judar som besöker eller bor i Safed är staden en påminnelse om deras traditioners djup och en plats för att förnya och fördjupa sin tro. Safed är inte bara ett historiskt minnesmärke utan en levande, vibrerande plats för andlig förnyelse och lärande, som fortsätter att inspirera generationer av judar världen över. 

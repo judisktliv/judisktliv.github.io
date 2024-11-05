@@ -19,17 +19,15 @@ En central del av judisk tro är övertygelsen om Guds enhet, uttryckt genom bö
 
 *Shema Yisrael, Adonai Eloheinu, Adonai Echad.*  
 
-Översättning: *"Hör, Israel! Herren är vår Gud, Herren är en."*
-
-Denna trosbekännelse sammanfattar tron på att Gud är en och odelbar, och att Gud är närvarande överallt. *Shema* är så betydelsefull att den ofta är det första ett judiskt barn lär sig och de sista orden många judar vill uttala på sin dödsbädd.
+Översättning: *"Hör, Israel! Herren är vår Gud, Herren är en."* Denna bön är så betydelsefull att den ofta är det första ett judiskt barn lär sig och de sista orden många judar uttalar på sin dödsbädd. *Shema* sammanfattar tron på att Gud är en och odelbar, och att Gud är närvarande överallt.
 
 ### Guds Heliga Namn: Hashem och Adonai
 
-Med stor vördnad nämns Guds namn sällan direkt inom judendomen. I den hebreiska Bibeln skrivs Guds namn som YHWH, men detta uttalas aldrig. I dagligt tal används istället *Hashem* (“Namnet”), och i böner används *Adonai* (“Herren”). Detta visar en djup respekt för Guds helighet och påminner om att Gud är både nära och bortom full förståelse.
+Med stor vördnad nämns Guds namn sällan direkt inom judendomen. I den hebreiska Bibeln skrivs Guds namn som YHWH (ett heligt namn som judar undviker att uttala), och i dagligt tal används istället *Hashem* (hebreiska för "Namnet"). I böner används ofta *Adonai* (hebreiska för "Herren"). Detta språkbruk visar djup respekt för Guds helighet och påminner om att Gud är både nära och bortom full förståelse.
 
 ### Förbundet mellan Gud och Israels Folk
 
-Judendomen betonar ett särskilt förbund, eller avtal, mellan Gud och det judiska folket, ett löfte som började med patriarken Abraham och bekräftades med Moses på Sinai berg. I detta förbund lovar Gud att välsigna och skydda sitt folk, medan judarna i gengäld förväntas följa Guds lagar och leva ett rättfärdigt liv. Dessa lagar finns i *Torah*, judendomens mest heliga text, som består av de fem Moseböckerna. *Talmud* är en samling texter som utvecklar och tolkar dessa lagar och etiska riktlinjer. För judarna är förbundet inte ett privilegium utan ett ansvar – en uppmaning att vara ett föredöme för andra genom att visa medmänsklighet, rättvisa och trohet.
+Judendomen betonar ett särskilt förbund, eller avtal, mellan Gud och det judiska folket, ett löfte som började med patriarken Abraham och bekräftades med Moses på Sinai berg. I detta förbund lovar Gud att välsigna och skydda sitt folk, medan judarna i gengäld förväntas följa Guds lagar och leva ett rättfärdigt liv. Dessa lagar finns i *Torah*, judendomens mest heliga text, som består av de fem Moseböckerna. Tolkningar och vidareutveckling av dessa lagar finns i *Talmud*, en textsamling som guidar judiska religiösa och etiska frågor. För judarna är förbundet inte ett privilegium utan ett ansvar – en uppmaning att vara ett föredöme genom att visa medmänsklighet, rättvisa och trohet.
 
 ### Monoteism som Kallar till Ansvar
 
@@ -41,11 +39,11 @@ Inom judendomen är Gud närvarande i alla aspekter av livet, både i religiösa
 
 ### Guds Relation till Icke-Judar
 
-Judendomen ser alla människor som skapade i Guds avbild (*B’tzelem Elohim*), och varje människa har ett inneboende värde. Även om judar har ett särskilt förbund med Gud, betonar judendomen universella etiska principer. De sju *[Noahidiska lagarna](noachidiska-lagarna)*, universella regler som inkluderar förbud mot mord, stöld och avgudadyrkan, fungerar som grundläggande moraliska riktlinjer för alla människor och främjar ett fredligt och rättvist samhälle. Dessa lagar visar att även icke-judar kan leva i harmoni med Guds vilja genom rättfärdiga handlingar.
+Judendomen ser alla människor som skapade i Guds avbild (*B’tzelem Elohim*), vilket ger varje människa ett inneboende värde. Även om judar har ett särskilt förbund med Gud, betonar judendomen universella etiska principer. De sju *Noahidiska lagarna* (universella regler som inkluderar förbud mot mord, stöld och avgudadyrkan) fungerar som moraliska riktlinjer för alla människor och främjar ett fredligt och rättvist samhälle. Dessa lagar visar att även icke-judar kan leva i harmoni med Guds vilja genom rättfärdiga handlingar.
 
 ### Människans Fria Vilja och Etiskt Ansvar
 
-Judendomen betonar människans fria vilja och ansvar för sina handlingar. Friheten att välja mellan rätt och fel ses som en del av att vara skapad i Guds avbild. Varje individ har ansvar att leva enligt Guds lagar, och omvändelse och försoning är möjliga, särskilt under högtiden Yom Kippur, den judiska försoningsdagen, då judar reflekterar över sina liv och söker försoning med Gud och andra.
+Judendomen betonar människans fria vilja och ansvar för sina handlingar. Friheten att välja mellan rätt och fel ses som en del av att vara skapad i Guds avbild. Varje individ har ansvar att leva enligt Guds lagar, och omvändelse och försoning är möjliga, särskilt under högtiden Yom Kippur (den judiska försoningsdagen), då judar reflekterar över sina liv och söker försoning med Gud och andra.
 
 ### Hoppet om En Bättre Värld
 

@@ -7,23 +7,23 @@ permalink: /tro/judisk-mysticism
 
 ---
 
-Judisk mysticism är en viktig del av judisk tro och kultur som öppnar dörren till en djupare förståelse av Gud, universum och människans plats i skapelsen. En central del av denna mystik är Kabbala – en uppsättning läror som strävar efter att avslöja dolda sanningar inom Torah och att föra människor närmare Gud. Kabbala, som betyder ”mottagande” på hebreiska, är en andlig väg fylld av symbolik, meditation och studier, och erbjuder insikter om själen, skapelsen och relationen mellan det mänskliga och det gudomliga.
+Judisk mysticism är en viktig del av judisk tro och kultur som öppnar dörren till en djupare förståelse av Gud, universum och människans plats i skapelsen. En central del av denna mystik är Kabbala – en uppsättning läror som strävar efter att avslöja dolda sanningar inom Torah (תורה) och att föra människor närmare Gud. Kabbala, som betyder ”mottagande” på hebreiska, är en andlig väg fylld av symbolik, meditation och studier, och erbjuder insikter om själen, skapelsen och relationen mellan det mänskliga och det gudomliga.
 
 ### Judisk Mysticism och Dess Ursprung
 
-Judisk mysticism har existerat sedan antiken och har alltid funnits i bakgrunden av judisk tradition. Även om termen ”Kabbala” blev vanlig först under medeltiden, återfinns dess grundläggande idéer i skrifterna, som i berättelser om profeter och deras direkta möten med Gud. Ett tidigt exempel på judisk mystik är Merkava-mystiken, som kretsade kring meditationer om Guds tron, Merkava, och om den himmelska världen. 
+Judisk mysticism har existerat sedan antiken och har alltid funnits i bakgrunden av judisk tradition. Även om termen ”Kabbala” blev vanlig först under medeltiden, återfinns dess grundläggande idéer i skrifterna, som i berättelser om profeter och deras direkta möten med Gud. Ett tidigt exempel på judisk mystik är **Merkava-mystiken** (מרכבה), som kretsade kring meditationer om Guds tron, Merkava, och om den himmelska världen.
 
-Kabbala som organiserad tradition började utvecklas under medeltiden, särskilt i Spanien och södra Frankrike på 1100- och 1200-talet. Då sammanställdes viktiga texter som fördjupade sig i skapelsen och de osynliga krafter som styr universum. Ett av de mest inflytelserika verken inom Kabbala är *Zohar*, skrivet på 1200-talet i Spanien och tillskrivet mystikern Moses de León. Zohar utforskar människans roll och relation till Gud genom tolkningar av Torah, och det har blivit en central text för kabbalister sedan dess.
+Kabbala som organiserad tradition började utvecklas under medeltiden, särskilt i Spanien och södra Frankrike på 1100- och 1200-talet. Då sammanställdes viktiga texter som fördjupade sig i skapelsen och de osynliga krafter som styr universum. Ett av de mest inflytelserika verken inom Kabbala är **Zohar** (זֹהַר), skrivet på 1200-talet i Spanien och tillskrivet mystikern Moses de León. Zohar utforskar människans roll och relation till Gud genom tolkningar av Torah och har blivit en central text för kabbalister sedan dess.
 
 ### Vad är Kabbala?
 
-Kabbala är en samling läror som fokuserar på de dolda aspekterna av Gud och skapelsen. En känd modell inom Kabbala är *Livets Träd*, som består av tio *sefirot*, eller gudomliga egenskaper, som tillsammans bildar en struktur över hur Gud upprätthåller världen och hur människan kan närma sig Gud. Sefiroterna sträcker sig från de högsta andliga dimensionerna (som Keter, ”kronan”) till den mest jordnära och konkreta (Malkhut, ”kungadömet”). Genom dessa egenskaper reflekterar människan Guds karaktär, och genom sitt liv och sina val kan hon uppnå en större förståelse av det gudomliga.
+Kabbala är en samling läror som fokuserar på de dolda aspekterna av Gud och skapelsen. En känd modell inom Kabbala är **Livets Träd** (עץ החיים), som består av tio **sefirot** (סְפִירוֹת), eller gudomliga egenskaper, som tillsammans bildar en struktur över hur Gud upprätthåller världen och hur människan kan närma sig Gud. Sefiroterna sträcker sig från de högsta andliga dimensionerna (som **Keter**, ”kronan”) till den mest jordnära och konkreta (Malkhut, ”kungadömet”). Genom dessa egenskaper reflekterar människan Guds karaktär, och genom sitt liv och sina val kan hon uppnå en större förståelse av det gudomliga.
 
 Kabbala lär att varje människa bär en spegelbild av dessa gudomliga egenskaper, och genom att vårda sina egna dygder kan hon utveckla en närmare relation till Gud och hitta sitt sanna jag. I Kabbala anses Torah innehålla dolda betydelser, och kabbalister tolkar ofta Torah på djupare nivåer genom numerologi, symbolik och meditation.
 
 ### Tikkun Olam – Att Laga Världen genom Kabbala
 
-En grundläggande idé inom Kabbala är *Tikkun Olam*, vilket betyder ”att laga världen”. Kabbala lär att det ursprungliga gudomliga ljuset splittrades vid skapelsen och att dessa ljusfragment nu finns i den materiella världen. Människans uppgift är att förena dessa ljusfragment med Gud genom rättfärdiga handlingar, insikter och andlig tillväxt. Tikkun Olam innebär att varje människa bär ett ansvar att bidra till harmoni och frid genom sina handlingar och sin relation till Gud.
+En grundläggande idé inom Kabbala är *Tikkun Olam* (תיקון עולם), vilket betyder ”att laga världen”. Kabbala lär att det ursprungliga gudomliga ljuset splittrades vid skapelsen och att dessa ljusfragment nu finns i den materiella världen. Människans uppgift är att förena dessa ljusfragment med Gud genom rättfärdiga handlingar, insikter och andlig tillväxt. Tikkun Olam innebär att varje människa bär ett ansvar att bidra till harmoni och frid genom sina handlingar och sin relation till Gud.
 
 ### Meditation och Bön i Kabbala
 

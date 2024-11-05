@@ -3,8 +3,8 @@
 layout: page  
 title: Kvinnan i Judendomen  
 subtitle: Historia, Roll och Nutida Perspektiv  
-permalink: /tro/kvinnan-i-judendomen
-toc: true
+permalink: /tro/kvinnan-i-judendomen  
+toc: true  
 
 ---
 
@@ -14,13 +14,13 @@ Genom att utforska historiska berättelser, religiösa plikter och moderna persp
 
 ### Historiska Rötter och Kvinnliga Förebilder
 
-Judiska texter och traditioner innehåller flera berättelser om kvinnor som haft en stark påverkan på judendomen och dess värderingar. Dessa kvinnor, såsom Sara, Miriam, Deborah, Ruth och Esther, har blivit symboler för styrka, mod och trofasthet och har format den judiska synen på kvinnans roll och värde.
+Judiska texter och traditioner innehåller flera berättelser om kvinnor som haft en stark påverkan på judendomen och dess värderingar. Dessa kvinnor, såsom Sara (שרה), Miriam (מרים), Deborah (דְבוֹרָה), Ruth (רות) och Esther (אֶסְתֵּר), har blivit symboler för styrka, mod och trofasthet och har format den judiska synen på kvinnans roll och värde.
 
-- **Sara, judendomens första matriark**, står som en symbol för den judiska hustrun och modern som håller fast vid sin tro trots omvärldens påfrestningar. Hon representerar lojalitet och uppoffring och har inspirerat judiska kvinnor att värna om familj och arv.
+- **Sara**, judendomens första matriark, står som en symbol för den judiska hustrun och modern som håller fast vid sin tro trots omvärldens påfrestningar. Hon representerar lojalitet och uppoffring och har inspirerat judiska kvinnor att värna om familj och arv.
 
-- **Miriam, Moses syster och profet**, spelade en betydande roll i judarnas befrielse från slaveri i Egypten. Hon är en tidig förebild för kvinnor som vill vara aktiva i religiösa och samhälleliga sammanhang.
+- **Miriam**, Moses syster och profet, spelade en betydande roll i judarnas befrielse från slaveri i Egypten. Hon är en tidig förebild för kvinnor som vill vara aktiva i religiösa och samhälleliga sammanhang.
 
-- **Deborah, domare och profet**, var en ledare och en av Israels domare. Hon visar på möjligheten till kvinnligt ledarskap och beslutsfattande inom det judiska folket.
+- **Deborah**, domare och profet, var en ledare och en av Israels domare. Hon visar på möjligheten till kvinnligt ledarskap och beslutsfattande inom det judiska folket.
 
 - **Esther**, som räddade det judiska folket från förföljelse i Persien, symboliserar mod och diplomati. Hennes berättelse påminner om vikten av att stå upp för sin tro och sitt folk.
 
@@ -28,19 +28,19 @@ Dessa kvinnor har format en bild av kvinnan som stark, lojal och modig inom jude
 
 ### Kvinnans Roll i Judendomen: Traditioner och Plikter
 
-Traditionellt sett har kvinnan inom judendomen haft en central roll i hemmet och familjen, där hon ofta kallas "Akeret HaBayit" (husets pelare). Denna roll innebär ansvar för att bevara judiska traditioner och föra vidare tro och kultur till kommande generationer. Hennes roll i hemmet har ansetts högt värderad och nödvändig för den judiska kontinuiteten.
+Traditionellt sett har kvinnan inom judendomen haft en central roll i hemmet och familjen, där hon ofta kallas "Akeret HaBayit" (אֵשֶׁת חַיִל, husets pelare). Denna roll innebär ansvar för att bevara judiska traditioner och föra vidare tro och kultur till kommande generationer. Hennes roll i hemmet har ansetts högt värderad och nödvändig för den judiska kontinuiteten.
 
-Kvinnan har också särskilda religiösa plikter, som att tända sabbatsljusen, baka *challah* (sabbatsbröd) och använda mikveh (ett rituellt bad). Dessa handlingar har både praktisk och andlig betydelse, och bidrar till att hålla samman hemmet och den judiska gemenskapen. Rollen som "Akeret HaBayit" har gett kvinnan inflytande i det judiska samhället, även om detta inflytande har varit mer indirekt i det offentliga religiösa livet.
+Kvinnan har också särskilda religiösa plikter, som att tända sabbatsljusen (בָּרוּךְ אַתָּה אֲדֹנָי אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, en bön som reciteras innan ljusen tänds), baka *challah* (חלה, sabbatsbröd) och använda *mikveh* (מִקְוֶה, ett rituellt bad). Dessa handlingar har både praktisk och andlig betydelse, och bidrar till att hålla samman hemmet och den judiska gemenskapen. Rollen som "Akeret HaBayit" har gett kvinnan inflytande i det judiska samhället, även om detta inflytande har varit mer indirekt i det offentliga religiösa livet.
 
 #### Begränsningar och Möjligheter
 
-Inom ortodox judendom har kvinnors deltagande i det offentliga religiösa livet historiskt sett varit mer begränsat. Kvinnor sitter ofta separat från männen i synagogan och deltar traditionellt inte i ledandet av bön eller läsning från Torah (den judiska Bibeln). Istället har kvinnans roll i hemmet och inom familjen ansetts lika viktig för det judiska livet, och hon är ofta undantagen från vissa religiösa plikter som skulle kunna krocka med hennes ansvar i hemmet.
+Inom ortodox judendom har kvinnors deltagande i det offentliga religiösa livet historiskt sett varit mer begränsat. Kvinnor sitter ofta separat från männen i synagogan och deltar traditionellt inte i ledandet av bön eller läsning från Torah (תורה, den judiska Bibeln). Istället har kvinnans roll i hemmet och inom familjen ansetts lika viktig för det judiska livet, och hon är ofta undantagen från vissa religiösa plikter som skulle kunna krocka med hennes ansvar i hemmet.
 
 ### Kontrasten Mellan Sekulära och Fromma Judinnor i Modern Tid
 
-Idag lever judiska kvinnor på olika sätt beroende på hur de ser på sin tro och sitt arv. För en sekulär judinna är judendomen ofta mer en kulturell identitet än en strikt religiös praktik. Hon kan fira högtider som Chanukka och Pesach, men ser dessa mer som kulturella uttryck än religiösa plikter. Hennes judiska identitet är ofta kopplad till familjeband och kulturell tillhörighet snarare än dagliga religiösa rutiner.
+Idag lever judiska kvinnor på olika sätt beroende på hur de ser på sin tro och sitt arv. För en sekulär judinna är judendomen ofta mer en kulturell identitet än en strikt religiös praktik. Hon kan fira högtider som Chanukka (חנוכה) och Pesach (פסח), men ser dessa mer som kulturella uttryck än religiösa plikter. Hennes judiska identitet är ofta kopplad till familjeband och kulturell tillhörighet snarare än dagliga religiösa rutiner.
 
-För en from judinna, särskilt inom ortodox och ultraortodox judendom, är det dagliga livet präglat av religiösa lagar och traditioner. Hon följer många religiösa plikter, som att täcka sitt hår om hon är gift, använda mikveh, och följa koshermatlagarna. Hon ser sitt ansvar inom familjen som centralt för att bevara det judiska arvet.
+För en from judinna, särskilt inom ortodox och ultraortodox judendom, är det dagliga livet präglat av religiösa lagar och traditioner. Hon följer många religiösa plikter, som att täcka sitt hår om hon är gift, använda mikveh, och följa koshermatlagarna (כּשׁר). Hon ser sitt ansvar inom familjen som centralt för att bevara det judiska arvet.
 
 Inom modern ortodoxi, som är en mer öppen gren inom ortodox judendom, har kvinnor idag fler möjligheter att studera religiösa texter och delta i det religiösa livet.
 

@@ -19,7 +19,7 @@ I och med att Rachel begravdes vid vägkanten, till skillnad från andra patriar
 
 ### Rachel som Moderlig Figur och Skyddshelgon
 
-Rachel representerar en stark moderlig symbol i den judiska tron. I Bibeln finns en välkänd profetia från Jeremia där "Rachel gråter för sina barn" – en bild som förmedlar hennes sorg och omsorg om sitt folk. Judar ser Rachel som en tröstare och en förebedjare, en moderfigur som de kan vända sig till i bön, särskilt under tider av prövningar. Rachels omtanke anses vara så stor att hon "gråter" för sitt folk inför Gud, och detta ger henne en unik och kärleksfull roll i den judiska traditionen.
+Rachel representerar en stark moderlig symbol i den judiska tron. I Bibeln finns en välkänd profetia från **Jeremia** där "Rachel gråter för sina barn" – en bild som förmedlar hennes sorg och omsorg om sitt folk. Judar ser Rachel som en tröstare och en förebedjare, en moderfigur som de kan vända sig till i bön, särskilt under tider av prövningar. Rachels omtanke anses vara så stor att hon "gråter" för sitt folk inför Gud, och detta ger henne en unik och kärleksfull roll i den judiska traditionen.
 
 Många judiska kvinnor besöker hennes grav för att be om skydd, välsignelser och fruktbarhet, särskilt för sina barn och familjer. Genom att be vid Rachels grav känner de en stark andlig närhet till henne, som en modersfigur som alltid står redo att ge tröst och stöd.
 

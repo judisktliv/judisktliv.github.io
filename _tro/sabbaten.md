@@ -7,7 +7,7 @@ permalink: /tro/sabbaten
 
 ---
 
-För judar är sabbaten – *Shabbat* på hebreiska – mer än bara en dag i veckan; den är en helig tid, en möjlighet att pausa från vardagens krav och skapa lugn och balans i livet. Sabbaten firas från solnedgången på fredagskvällen till solnedgången på lördagen. Under dessa timmar sätter judar arbete och dagliga sysslor åt sidan för att fokusera på vila, andlighet och gemenskap. Sabbaten betraktas som en gåva från Gud, en tid då man kan återhämta sig både fysiskt och själsligt, samt skapa en närmare relation till Gud, familjen och sig själv.
+För judar är sabbaten – *Shabbat* (שבת) på hebreiska – mer än bara en dag i veckan; den är en helig tid, en möjlighet att pausa från vardagens krav och skapa lugn och balans i livet. Sabbaten firas från solnedgången på fredagskvällen till solnedgången på lördagen. Under dessa timmar sätter judar arbete och dagliga sysslor åt sidan för att fokusera på vila, andlighet och gemenskap. Sabbaten betraktas som en gåva från Gud, en tid då man kan återhämta sig både fysiskt och själsligt, samt skapa en närmare relation till Gud, familjen och sig själv.
 
 ### Skapelsen och Guds Vila
 
@@ -15,11 +15,11 @@ Sabbaten har sitt ursprung i skapelseberättelsen, där Gud skapade världen på
 
 ### En Tid för Att Lägga Åt Sidan Vardagen
 
-En av sabbatens viktigaste principer är att avstå från arbete, vilket innebär att lägga bort alla vardagssysslor och inte använda teknik eller annat som kan störa stillheten. Detta är en tydlig gräns mellan det heliga och det vardagliga, där sabbaten blir en skyddad oas av ro mitt i veckan. Genom att sätta allt arbete åt sidan och undvika distraktioner kan man fokusera på sin inre värld och på de aspekter av livet som verkligen betyder något – såsom relationer, andlighet och reflektion.
+En av sabbatens viktigaste principer är att avstå från arbete (*melacha*), vilket innebär att lägga bort alla vardagssysslor och inte använda teknik eller annat som kan störa stillheten. Detta skapar en tydlig gräns mellan det heliga och det vardagliga, där sabbaten blir en skyddad oas av ro mitt i veckan. Genom att sätta allt arbete åt sidan och undvika distraktioner kan man fokusera på sin inre värld och på de aspekter av livet som verkligen betyder något – såsom relationer, andlighet och reflektion.
 
 ### Sabbatsmåltiden och Ljusets Betydelse
 
-Sabbaten börjar med en ceremoni där sabbatsljusen tänds vid solnedgången på fredagskvällen, ofta av en kvinna i familjen. Ljusen symboliserar övergången från vardagen till sabbatens helighet och fred. Familj och vänner samlas för en sabbatsmåltid, där det inleds med välsignelser över vin och bröd (challah). Detta är en varm och meningsfull stund, fylld av samvaro, där familjen kan samtala om veckan som gått och reflektera över sin tro och livets värden. Måltiden fungerar som en brygga mellan det vardagliga och det heliga, en plats för gemenskap och fördjupning.
+Sabbaten börjar med en ceremoni där sabbatsljusen tänds vid solnedgången på fredagskvällen, ofta av en kvinna i familjen. Ljusen symboliserar övergången från vardagen till sabbatens helighet och fred. Familj och vänner samlas för en sabbatsmåltid, där det inleds med välsignelser över vin och bröd (*challah*), en flätad brödsort. Detta är en varm och meningsfull stund, fylld av samvaro, där familjen kan samtala om veckan som gått och reflektera över sin tro och livets värden. Måltiden fungerar som en brygga mellan det vardagliga och det heliga, en plats för gemenskap och fördjupning.
 
 ### Bön och Eftertanke
 
@@ -31,7 +31,7 @@ Att fira sabbaten är en tusenårig tradition som förenar generationer av judar
 
 ### Havdalah: En Avslutning och Välsignelse
 
-Sabbaten avslutas på lördagskvällen med en ceremoni som kallas *Havdalah*, där ett särskilt ljus, vin och doftande kryddor används för att markera övergången tillbaka till vardagen. Trots att sabbaten är slut bär många judar med sig sabbatens välsignelse och inre lugn in i veckan. Sabbaten påminner om att arbete och prestation inte är allt, utan att det finns en djupare mening i livet. Att vila och reflektera hjälper en att vårda sin andlighet och stärka relationen till Gud och sina närmaste.
+Sabbaten avslutas på lördagskvällen med en ceremoni som kallas *Havdalah* (הבדלה), där ett särskilt ljus, vin och doftande kryddor används för att markera övergången tillbaka till vardagen. Trots att sabbaten är slut bär många judar med sig sabbatens välsignelse och inre lugn in i veckan. Sabbaten påminner om att arbete och prestation inte är allt, utan att det finns en djupare mening i livet. Att vila och reflektera hjälper en att vårda sin andlighet och stärka relationen till Gud och sina närmaste.
 
 ### Sabbaten som En Helig Gåva
 

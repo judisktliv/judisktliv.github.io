@@ -13,21 +13,21 @@ Kosher är för många judar idag mer än en religiös skyldighet; det är ocks�
 
 ### Vad innebär Kosher?
 
-Kosher är det judiska begreppet för mat som är tillåten att äta enligt judiska kostlagar, som kallas *kashrut*. Dessa regler finns i *Halacha* – den judiska lagen – och har sitt ursprung i Torah. *Kosher* är termen som oftast används av judar från Centraleuropa och Östeuropa (ashkenaziska judar), medan det ursprungliga hebreiska ordet är *kasher*. 
+Kosher är det judiska begreppet för mat som är tillåten att äta enligt judiska kostlagar, som kallas *kashrut* (כַּשְׁרוּת). Dessa regler finns i *Halacha* (den judiska lagen) och har sitt ursprung i *Torah*. *Kosher* är termen som oftast används av judar från Centraleuropa och Östeuropa (ashkenaziska judar), medan det ursprungliga hebreiska ordet är *kasher*.
 
-Att äta kosher innebär inte bara att välja vissa livsmedel utan också att följa noggranna regler för matberedning och tillagning. Kosherreglerna återfinns i de judiska Bibeltexterna *3 Mosebok* (Leviticus) kapitel 11 och *5 Mosebok* (Deuteronomium) kapitel 14. Där beskrivs vilka djur som är "rena" och tillåtna att äta, samt vilka som är "orena" och förbjudna. Regler om att inte blanda kött och mjölk kommer från verser i *2 Mosebok 23:19* och *5 Mosebok 14:21*.
+Att äta kosher innebär inte bara att välja vissa livsmedel utan också att följa noggranna regler för matberedning och tillagning. Kosherreglerna återfinns i de judiska Bibeltexterna *3 Mosebok* (Leviticus) kapitel 11 och *5 Mosebok* (Deuteronomium) kapitel 14. Där beskrivs vilka djur som är "rena" (tillåtna) och "orena" (förbjudna) att äta, samt vilka regler som gäller för hantering av mat. Regler om att inte blanda kött och mjölk kommer från verser i *2 Mosebok 23:19* och *5 Mosebok 14:21*.
 
 ### De Tre Huvudprinciperna Inom Kosher
 
 1. **Tillåtna och förbjudna djur**: Endast vissa djur är tillåtna att äta. Till exempel måste landdjur vara idisslare och ha delade klövar för att vara kosher, vilket innebär att kött från kor och får är tillåtet medan griskött är förbjudet. Fisk måste ha både fenor och fjäll, vilket innebär att skaldjur som räkor och musslor är förbjudna. För fåglar är bara vissa arter tillåtna, som kyckling och anka, medan rovfåglar inte är kosher.
 
-2. **Slaktregler**: Djur måste slaktas på ett särskilt sätt för att köttet ska vara kosher. Denna metod kallas *shechita* och utförs av en utbildad slaktare, en *shochet*, som med en vass kniv gör ett snabbt snitt över djurets hals för att minimera lidande. Blodet dräneras sedan från kroppen eftersom Torah förbjuder konsumtion av blod.
+2. **Slaktregler**: Djur måste slaktas på ett särskilt sätt för att köttet ska vara kosher. Denna metod kallas *shechita* (שחיטה) och utförs av en utbildad slaktare, en *shochet* (שוחט), som med en vass kniv gör ett snabbt snitt över djurets hals för att minimera lidande. Blodet dräneras sedan från kroppen eftersom Torah förbjuder konsumtion av blod.
 
 3. **Separering av mjölk och kött**: Kosherreglerna förbjuder att blanda mjölk- och köttprodukter, vilket baseras på ett bud i Torah om att inte "koka en killing i dess moders mjölk." Ett kosherkök har därför separata redskap och kärl för mjölk- och köttprodukter, och det finns en viss väntetid mellan konsumtion av dessa livsmedel.
 
 ### Kosher som Ett Etiskt och Andligt Val
 
-För många judar är kosher också en livsstil som handlar om att visa respekt för djuren, naturen och den mat man äter. Att följa kosher innebär ett sätt att bli mer medveten om vad man konsumerar och hur det påverkar världen. Genom kosher kan man upprätthålla ett synsätt där onödigt lidande undviks och naturens balans bevaras, som ett sätt att visa tacksamhet för skapelsen. 
+För många judar är kosher också en livsstil som handlar om att visa respekt för djuren, naturen och den mat man äter. Att följa kosher innebär ett sätt att bli mer medveten om vad man konsumerar och hur det påverkar världen. Genom kosher kan man upprätthålla ett synsätt där onödigt lidande undviks och naturens balans bevaras, som ett sätt att visa tacksamhet för skapelsen.
 
 Denna moderna tolkning av kosher speglar ett etiskt förhållningssätt där mat blir ett medel för att skapa en länk till Gud och ett sätt att se världen ur ett ansvarsfullt och medvetet perspektiv.
 
