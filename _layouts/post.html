@@ -27,27 +27,36 @@ layout: default
         <!-- Content -->
         <div class="content">
 
+            {% if page.toc %}
 
-        {% if page.toc %}
-            {% assign split_content = content | split: "<h" %}
-            {% assign before_heading = split_content[0] %}
-            {% assign after_heading = "<h" | append: split_content[1] %}
-
-            {{ before_heading }} 
+            {% assign split_content = content | split: '<h3' %}
             
-            <h3>Innehåll</h3>
+            {% if split_content.size > 1 %}
+                {% assign before_content = split_content[0] %}
+                {% assign remaining_content = split_content | slice: 1, split_content.size | join: '<h3' %}
+                {% assign remaining_content = '<h3' | append: remaining_content %}
+            {% else %}
+                {% assign before_content = content %}
+                {% assign remaining_content = "" %}
+            {% endif %}
 
-            <div id="toc">
-                {{ content | toc_only }} <!-- TOC placeras här -->
-            </div>
+            {{ before_content | strip }} <!-- All content before the first <h3> -->
 
-            {{ after_heading }}
+            {% if page.toc %}
+                <h3>Innehåll</h3>
+                <div id="toc">
+                    {{ content | toc_only }} <!-- TOC is displayed here -->
+                </div>
+            {% endif %}
+
+            {{ remaining_content | strip }} <!-- Remaining content starting from the first <h3> -->
+
 
             {% else %}
 
             {{ content }}
 
-        {% endif %}
+            {% endif %}
 
         </div>
 
