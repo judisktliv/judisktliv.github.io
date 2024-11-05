@@ -42,7 +42,3 @@ Att studera Torah ses som en central del av judiskt liv och kultur. Ofta studera
 För judar är Torah mer än en gammal text; den är en levande lagbok och en tydlig kompass. Genom att följa Torah och Halacha eftersträvar judar att leva ett rättfärdigt och moraliskt liv, samtidigt som de hedrar sitt folks historia och det förbund som upprättades för tusentals år sedan. Torah är en grundläggande del av judiskt liv och fungerar som både lag, berättelse och en evig källa till lärdom om rättvisa, plikt och respekt.
 
 För dem som följer Torah är den en ständig påminnelse om det judiska folkets arv och en vägvisare i det dagliga livet. Torah är inte bara en text, utan ett levande arv som fortsätter att inspirera, vägleda och skapa en stark gemenskap för judar världen över.
-
----
-
-Texten är strukturerad för att förklara Torah och Halacha på ett lättillgängligt sätt för en icke-judisk läsekrets, samtidigt som den behåller ett judiskt perspektiv. Den klargör hur Torah påverkar judiskt liv och kultur, både som en religiös text och som en vägledning för hur ett judiskt liv ska levas.
