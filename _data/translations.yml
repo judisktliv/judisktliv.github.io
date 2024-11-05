@@ -90,6 +90,8 @@ menu:
           - title: "Modern tid"
             permalink: "/historia/modern-tid"
             menu:
+              - title: "Judiska upplysningen"
+                permalink: "/historia/modern-tid/judiska-upplysningen"
               - title: "Förintelsen"
                 permalink: "/historia/modern-tid/forintelsen"
               - title: "Pogromerna i Östeuropa"
