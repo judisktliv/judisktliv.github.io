@@ -12,7 +12,7 @@ Förintelsen, även kallad Shoah på hebreiska, var en systematisk utrotningskam
 
 ### Nazistisk Politik och Stegen mot Utrotning
 
-Naziregimen införde en rad åtgärder för att begränsa och förfölja judiska människor. Judar förlorade sina yrken, förbjöds från olika delar av samhället, och tvingades bära Davidsstjärnan som en igenkänningssymbol. Många fördes till avskilda områden, kallade ghetton, där de levde under extremt svåra förhållanden. Från ghettorna transporterades de senare till olika typer av läger, inklusive koncentrations- och förintelseläger som Auschwitz, Treblinka och Sobibór, där miljontals judar antingen tvingades arbeta under omänskliga förhållanden eller avrättades.
+Naziregimen införde en rad åtgärder för att begränsa och förfölja judiska människor. Judar förlorade sina yrken, förbjöds från olika delar av samhället, och tvingades bära Davidsstjärnan som en igenkänningssymbol. Många försökte fly Nazityskland och sökte en väg till säkerhet, bland annat till Palestina-mandatet. Ironiskt nog möjliggjorde nazisterna ibland denna utvandring i början, som ett alternativ till utrotning. Kontakter etablerades även med stormuftin av Jerusalem, vars antijudiska hållning överensstämde med nazisternas mål. Från ghettorna transporterades judarna senare till olika typer av läger, inklusive koncentrations- och förintelseläger som Auschwitz, Treblinka och Sobibór, där miljontals judar antingen tvingades arbeta under omänskliga förhållanden eller avrättades.
 
 ### Lägerlivet och Massutrotningens Realiteter
 
