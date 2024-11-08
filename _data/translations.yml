@@ -94,6 +94,8 @@ menu:
           - title: "Exilen och diasporans tid"
             permalink: "/historia/exilen-och-diasporans-tid"
             menu:
+              - title: "Spanska inkvisitionen"
+                permalink: "/historia/exilen-och-diasporans-tid/spanska-inkvisitionen"
               - title: "Emancipationen"
                 permalink: "/historia/exilen-och-diasporans-tid/emancipationen"
               - title: "Judiska upplysningen"
