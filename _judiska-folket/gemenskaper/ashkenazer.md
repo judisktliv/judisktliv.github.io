@@ -5,7 +5,7 @@ subtitle: En Historisk och Kulturell Resa Genom Den Judiska Diasporan i Europa
 permalink: /judiska-folket/gemenskaper/ashkenazer
 ---
 
-Ashkenaziska judar, ofta kallade ashkenazer, utgör en av de största och mest inflytelserika judiska grupperna. De har sitt ursprung i Centraleuropa och Östeuropa, där de under århundraden utvecklade en distinkt judisk kultur. Den ashkenaziska identiteten präglas av unika språk, traditioner, musik och seder, som alla har överlevt trots århundraden av förföljelse, migration och förändring. I denna artikel utforskar vi deras ursprung, historia, kulturella arv och bidrag till världen.
+**Ashkenaziska judar**, ofta kallade ashkenazer, utgör en av de största och mest inflytelserika judiska grupperna. De har sitt ursprung i Centraleuropa och Östeuropa, där de under århundraden utvecklade en distinkt judisk kultur. Den ashkenaziska identiteten präglas av unika språk, traditioner, musik och seder, som alla har överlevt trots århundraden av förföljelse, migration och förändring. I denna artikel utforskar vi deras ursprung, historia, kulturella arv och bidrag till världen.
 
 ### Ursprung och Historia
 

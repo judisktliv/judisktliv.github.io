@@ -23,7 +23,7 @@ Judendomen är mer än en religion; den är en kulturell och historisk gemenskap
 
 - **Sefardiska judar:** Ursprungligen från den Iberiska halvön (Spanien och Portugal) men senare bosatta i Nordafrika och Mellanöstern. De sefardiska judarna har utvecklat ladino-språket och bevarat en musikalisk tradition som reflekterar deras historiska rötter. [Läs mer](sefarder).
 
-- **Mizrahi judar:** Med ursprung i Mellanöstern och Nordafrika omfattar denna grupp ungefär 2–3 miljoner individer. Mizrahi judarna har unika seder och ritualer som formats av länder som Irak, Jemen och Iran. [Läs mer](mizrahi).
+- **Mizrahi judar:** Med ursprung i Mellanöstern och Nordafrika omfattar denna grupp ungefär 2–3 miljoner individer. Mizrahi judarna har unika seder och ritualer som formats av länder som Irak, Jemen och Iran. [Läs mer](mizraher).
 
 - **Etiopiska judar (Beta Israel):** Denna gemenskap, som främst består av judar från Etiopien, har sina egna religiösa traditioner och använder språket Ge'ez i liturgiska sammanhang. De flesta medlemmarna av Beta Israel bor idag i Israel. [Läs mer](beta-israel).
 

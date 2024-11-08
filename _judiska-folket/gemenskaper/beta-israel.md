@@ -5,7 +5,7 @@ subtitle: Etiopiens Judar och Deras Unika Plats i Den Judiska Världen
 permalink: /judiska-folket/gemenskaper/beta-israel
 ---
 
-Beta Israel, även kända som Etiopiens judar, är en distinkt judisk gemenskap med en fascinerande historia och en unik kultur. Trots att de under lång tid levde isolerade från andra judiska samhällen bevarade Beta Israel sin tro, sina seder och sina traditioner. Genom århundraden har de upprätthållit en stark identitet och har idag en betydande närvaro i Israel. I denna artikel utforskar vi Beta Israels ursprung, historia, kulturella arv och deras bidrag till världen.
+**Beta Israel**, även kända som **Etiopiens judar**, är en distinkt judisk gemenskap med en fascinerande historia och en unik kultur. Trots att de under lång tid levde isolerade från andra judiska samhällen bevarade Beta Israel sin tro, sina seder och sina traditioner. Genom århundraden har de upprätthållit en stark identitet och har idag en betydande närvaro i Israel. I denna artikel utforskar vi Beta Israels ursprung, historia, kulturella arv och deras bidrag till världen.
 
 ### Ursprung och Historia
 

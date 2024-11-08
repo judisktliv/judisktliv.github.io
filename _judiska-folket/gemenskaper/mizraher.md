@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mizrahi
+title: Mizraher
 subtitle: En Judisk Kultur Med Rötter i Mellanöstern och Nordafrika
-permalink: /judiska-folket/gemenskaper/mizrahi
+permalink: /judiska-folket/gemenskaper/mizraher
 ---
 
-Mizrahiska judar, ofta kallade mizrahim, är en judisk grupp med djupa rötter i Mellanöstern och Nordafrika. *Mizrahi* betyder "öst" på hebreiska och hänvisar till judar från regioner öster om Europa, inklusive Irak, Iran, Syrien, Egypten, Marocko, och Jemen. Deras kultur, språk och traditioner bär starka influenser från de länder de härstammar ifrån. Mizraher har bevarat en unik judisk identitet trots att de ofta levde isolerade från andra judiska grupper, och de har bidragit med rik mångfald till den globala judiska kulturen.
+**Mizrahiska judar**, ofta kallade mizrahim, är en judisk grupp med djupa rötter i Mellanöstern och Nordafrika. *Mizrahi* betyder "öst" på hebreiska och hänvisar till judar från regioner öster om Europa, inklusive Irak, Iran, Syrien, Egypten, Marocko, och Jemen. Deras kultur, språk och traditioner bär starka influenser från de länder de härstammar ifrån. Mizraher har bevarat en unik judisk identitet trots att de ofta levde isolerade från andra judiska grupper, och de har bidragit med rik mångfald till den globala judiska kulturen.
 
 ### Ursprung och Historia
 

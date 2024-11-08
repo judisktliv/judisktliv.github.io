@@ -5,7 +5,7 @@ subtitle: En Rik Kulturarv och Historisk Judisk Gemenskap från Den Iberiska Hal
 permalink: /judiska-folket/gemenskaper/sefarder
 ---
 
-Sefardiska judar, ofta kallade sefarder, utgör en betydande och inflytelserik del av det judiska folket. Deras historia går tillbaka till den iberiska halvön (dagens Spanien och Portugal), och under århundradena har de utvecklat en distinkt kultur som kombinerar judiska, spanska och andra influenser från Medelhavsregionen. Sefarderna är kända för sina unika språk, musik, traditioner och bidrag till både judisk och global kultur. I denna artikel utforskar vi deras ursprung, historia, kulturella arv och betydande bidrag till världen.
+**Sefardiska judar**, ofta kallade sefarder, utgör en betydande och inflytelserik del av det judiska folket. Deras historia går tillbaka till den iberiska halvön (dagens Spanien och Portugal), och under århundradena har de utvecklat en distinkt kultur som kombinerar judiska, spanska och andra influenser från Medelhavsregionen. Sefarderna är kända för sina unika språk, musik, traditioner och bidrag till både judisk och global kultur. I denna artikel utforskar vi deras ursprung, historia, kulturella arv och betydande bidrag till världen.
 
 ### Ursprung och Historia
 

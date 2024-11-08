@@ -5,7 +5,7 @@ subtitle: En Historisk Judisk Gemenskap i Indien
 permalink: /judiska-folket/gemenskaper/bene-israel
 ---
 
-Bene Israel, en judisk gemenskap i Indien, har en fascinerande historia och en unik kultur som skiljer sig från andra judiska grupper. Trots att de levt isolerade från andra judiska samhällen har Bene Israel bevarat sin tro och sina traditioner och integrerat dem med indiska kulturella influenser. I denna artikel utforskar vi deras ursprung, historia, kulturella arv och bidrag till världen.
+**Bene Israel**, en judisk gemenskap i Indien, har en fascinerande historia och en unik kultur som skiljer sig från andra judiska grupper. Trots att de levt isolerade från andra judiska samhällen har Bene Israel bevarat sin tro och sina traditioner och integrerat dem med indiska kulturella influenser. I denna artikel utforskar vi deras ursprung, historia, kulturella arv och bidrag till världen.
 
 ### Ursprung och Historia
 
