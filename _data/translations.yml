@@ -139,6 +139,8 @@ menu:
             permalink: "/historia/israel-palestina-konflikten"
           - title: "Attacken den 7 oktober"
             permalink: "/historia/attacken-7-oktober"
+          - title: Vad är en palestinier?
+            permalink: "/historia/vad-ar-en-palestinier"
       - title: "Kultur"
         url: "/kultur"
         menu:
