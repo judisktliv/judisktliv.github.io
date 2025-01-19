@@ -5,3 +5,7 @@ gemspec
 
 gem 'jekyll-relative-links'
 gem 'jekyll-toc'
+
+gem "csv"
+gem "base64"
+gem "bigdecimal"
